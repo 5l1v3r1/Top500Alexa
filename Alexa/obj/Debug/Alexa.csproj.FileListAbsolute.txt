@@ -1,0 +1,12 @@
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Debug\Alexa.exe.config
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Debug\Alexa.exe
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Debug\Alexa.pdb
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Debug\HtmlAgilityPack.dll
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Debug\HtmlAgilityPack.pdb
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Debug\HtmlAgilityPack.xml
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Debug\Alexa.csprojResolveAssemblyReference.cache
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Debug\Alexa.Form1.resources
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Debug\Alexa.Properties.Resources.resources
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Debug\Alexa.csproj.GenerateResource.Cache
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Debug\Alexa.exe
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Debug\Alexa.pdb

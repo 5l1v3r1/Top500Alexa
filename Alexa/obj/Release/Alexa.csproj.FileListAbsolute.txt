@@ -1,0 +1,12 @@
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Release\Alexa.exe.config
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Release\Alexa.exe
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Release\Alexa.pdb
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Release\HtmlAgilityPack.dll
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Release\HtmlAgilityPack.pdb
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\bin\Release\HtmlAgilityPack.xml
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Release\Alexa.csprojResolveAssemblyReference.cache
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Release\Alexa.Form1.resources
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Release\Alexa.Properties.Resources.resources
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Release\Alexa.csproj.GenerateResource.Cache
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Release\Alexa.exe
+c:\users\saeeddn\documents\visual studio 2015\Projects\Alexa\Alexa\obj\Release\Alexa.pdb
